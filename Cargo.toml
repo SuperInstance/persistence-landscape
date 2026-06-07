@@ -1,0 +1,9 @@
+[package]
+name = "persistence-landscape"
+version = "0.1.0"
+edition = "2021"
+description = "Persistence landscapes for statistical topological data analysis: piecewise-linear landscape functions, Lp norms, and averaging"
+license = "MIT"
+repository = "https://github.com/SuperInstance/persistence-landscape"
+
+[dependencies]
